@@ -28,7 +28,7 @@ The application collects the following metrics:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sami-07/prometheus-grafana-monitoring
 cd simple-monitoring-logs
 ```
 
