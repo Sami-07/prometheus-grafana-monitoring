@@ -1,4 +1,4 @@
-# Simple Monitoring Logs
+# Prometheus and Grafana Monitoring
 
 A lightweight monitoring solution built with Express.js, Prometheus, Grafana and Bun. This project demonstrates how to implement basic application monitoring with metrics collection and visualization.
 
